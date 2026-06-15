@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.patientlens.mobile",
+      "sha256_cert_fingerprints": [
+        "B7:EE:68:D7:2E:04:EF:3E:01:5B:69:E1:52:FA:0F:A6:CD:12:FD:2B:AB:F1:C1:F7:63:85:07:D7:F7:9D:2B:A6"
+      ]
+    }
+  }
+]
